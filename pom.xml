@@ -53,10 +53,10 @@
                 <configuration>
                     <source>1.7</source>
                     <target>1.7</target>
-                    <compilerArguments>
+<!--                     <compilerArguments>
                         <endorseddirs>${endorsed.dir}</endorseddirs>
                     </compilerArguments>
-                </configuration>
+ -->                </configuration>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

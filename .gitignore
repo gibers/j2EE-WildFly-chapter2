@@ -3,5 +3,5 @@
 .classpath
 .git
 .project
-.nb-configuration.xml
+nb-configuration.xml
 deployerWar.bat
