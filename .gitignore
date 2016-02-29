@@ -1,8 +1,0 @@
-*target
-.settings
-.classpath
-.git
-.gitignore
-.project
-nb-configuration.xml
-deployerWar.bat
