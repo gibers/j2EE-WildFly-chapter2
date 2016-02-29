@@ -1,0 +1,7 @@
+*/target/
+.settings
+.classpath
+.git
+.project
+.nb-configuration.xml
+deployerWar.bat
