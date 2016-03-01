@@ -4,7 +4,7 @@
   <session-factory name="HibernateSessionFactory">
     <!--<property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>-->
 
-    <property name="hibernate.connection.datasource">java:jboss/datasources/MySQLDS</property>
+    <property name="hibernate.connection.datasource">java:jboss/datasources/MySQLDS1</property>
         
 <!--    <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
     <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/test1</property>
